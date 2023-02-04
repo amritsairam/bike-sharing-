@@ -28,5 +28,5 @@ I started by creating a data cleaning rundown script. Among other things I:
 5. Added 2 weekday columns for the respective weekdays the ride started and ended on using dt.weekday() in pandas
 6. My main challenges were working with the date format, although I only created visualisations for 2020 - 2021, I cleaned all the tables going back to    2016. They had various date formats and I found working with dates to be the most challenging part of this case study as certain functions turned dates into string or number formats which were then not readable as dates in Python. In the end, I figured out how to use libraries such as time and functionalities such as gmtime and strftime also datetime function in pandas to create the right column format and add a weekday column.
 ## Below is a summary of the data after the initial data processing:
+<img width="814" alt="photo after initial data processing" src="https://user-images.githubusercontent.com/124433494/216765462-8ee7e790-cbdd-46ac-8a43-6b040e7abf34.png">
 
-<p align="center"><image width=80% src="photos/<img width="814" alt="photo after initial data processing" src="https://user-images.githubusercontent.com/124433494/216765360-10e7b4f8-f511-4458-a419-00568e868126.png"></p>
