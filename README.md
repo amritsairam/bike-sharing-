@@ -21,9 +21,10 @@ I tried processing this data in both BigQuery and Python but for storage reasons
 
 I started by creating a data cleaning rundown script. Among other things I:
 
-### .Removed duplicate records with the use of unique ride ids using drop_duplicates() in pandas
-Deleted rows with incomplete or unavailable data with dropna() functionality in pandas
-Deleted rows with inconsistent times where the start time was later than the end time
-Added a column for the ride length of the trip in minutes and a column for the starting hour e.g. If the ride start time was ‘2020-07-22 15:38:23’ the starting hour would be 15
-Added 2 weekday columns for the respective weekdays the ride started and ended on
-My main challenges were working with the date format, although I only created visualisations for 2020 - 2021, I cleaned all the tables going back to 2016. They had various date formats and I found working with dates to be the most challenging part of this case study as certain functions turned dates into string or number formats which were then not readable as dates in Tableau. In the end, I figured out how to use the 'as.POSIXct' and 'as.Date' functions to create the right column format and add a weekday column.
+1. Removed duplicate records with the use of unique ride ids using drop_duplicates() in pandas
+2. Deleted rows with incomplete or unavailable data with dropna() functionality in pandas
+3. Deleted rows with inconsistent times where the start time was later than the end time
+4. Added a column for the ride length of the trip in minutes and a column for the starting hour e.g. If the ride start time was ‘2020-07-22 15:38:23’ the starting hour would be 15
+5. Added 2 weekday columns for the respective weekdays the ride started and ended on using dt.weekday() in pandas
+6. My main challenges were working with the date format, although I only created visualisations for 2020 - 2021, I cleaned all the tables going back to    2016. They had various date formats and I found working with dates to be the most challenging part of this case study as certain functions turned dates into string or number formats which were then not readable as dates in Python. In the end, I figured out how to use libraries such as time and functionalities such as gmtime and strftime also datetime function in pandas to create the right column format and add a weekday column.
+## Below is a summary of the data after the initial data processing:
