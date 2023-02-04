@@ -1,4 +1,5 @@
-<h1 align="center">Bike Sharing Case Study</h1>
+<h1 align="center">Bike Sharing Case Study</h1> 
+
 ## INTRODUCTION
 
 >Hi everyone, over the last few months, I've been working on a bike sharing case study . This has been a very insightful case study that has included Tableau, python programming, SQL and key data analyst terminologies and processes. Below is my walkthrough of Case Study using various tools and methods.
