@@ -48,6 +48,17 @@ The key difference in usage, shown below, is that casual riders use bikes most o
 
 ##Hourly Use
 
-Throughout the week, members and casual riders use the bikes most often around 5/6 pm on weekdays and 1/2 pm during the weekends. Casual riders begin trips fairly frequently in the early afternoons on weekdays while members start journeys quite often around 7/8 am on weekdays.
+Throughout the week, members and casual riders use the bikes most often around 5/6 pm on weekdays and 1/2 pm during the weekends. Casual riders begin trips fairly frequently in the early afternoons on weekdays while members start journeys quite often around 7/8 am on weekdays.I also will be adding individual photos in a seperate folder
+#ask shreyas how to do that
 ![hourly plots combined](https://user-images.githubusercontent.com/124433494/216784374-a5f4a5cf-4ff0-49bf-9df5-fb486144d3d1.png)
+
+##[Image 5]
+
+Monthly Use
+
+Overall bikes are used most often and for longer periods from July to September, casual riders use the service particularly more during Saturdays in August. As expected there are fewer users in the winter months. It is also interesting to note that casual riders use the service a fair amount between March and June with a slight dip in May. Electric bikes are fairly popular during autumn for causal riders while classic bikes are almost only used by casual riders during March and February.
+
+![monthly plots according to bike](https://user-images.githubusercontent.com/124433494/216785120-058b1620-f4cb-4d30-8ce9-907abbf44881.png)
+
+
 
