@@ -30,5 +30,24 @@ I started by creating a data cleaning rundown script. Among other things I:
 ## Below is a summary of the data after the initial data processing:
 <img width="814" alt="photo after initial data processing" src="https://user-images.githubusercontent.com/124433494/216765462-8ee7e790-cbdd-46ac-8a43-6b040e7abf34.png">
 <img width="814" alt="photo after initial data processing 2" src="https://user-images.githubusercontent.com/124433494/216765538-dab609b8-19e4-4833-8011-680ec2e13d4e.png">
+#comments include mean median mode data also in the above picture
+#to be included box plot
+#look at image 2 comments also
+## [Image 3]
+## Data Visualisation
 
+I used Tableau and matplotlib.pyplot  in python  for data visualisation, below are my key findings.
+
+##Daily Use
+
+The key difference in usage, shown below, is that casual riders use bikes most on weekends and least at the beginning of the week, whereas members use the bikes more evenly across the week. Members also use classic and electric bikes more often throughout the week whereas casual riders mostly use docked bikes.Here 0 in the chart being monday and so on
+<img width="1425" alt="daily plot for casual members" src="https://user-images.githubusercontent.com/124433494/216783338-d6db7478-5914-444d-b1d1-62d5823f4719.png">
+#daily plot for member is remaining
+
+##[Image 4]
+
+##Hourly Use
+
+Throughout the week, members and casual riders use the bikes most often around 5/6 pm on weekdays and 1/2 pm during the weekends. Casual riders begin trips fairly frequently in the early afternoons on weekdays while members start journeys quite often around 7/8 am on weekdays.
+![hourly plots combined](https://user-images.githubusercontent.com/124433494/216784374-a5f4a5cf-4ff0-49bf-9df5-fb486144d3d1.png)
 
