@@ -5,11 +5,7 @@
 >Hi everyone, over the last few months, I've been working on a bike sharing case study . This has been a very insightful case study that has included Tableau, python programming, SQL and key data analyst terminologies and processes. Below is my walkthrough of Case Study using various tools and methods.
 Scenario: You are a data analyst working at Cyclistic, a bike-share company in Chicago. 
 
->Cyclistic allows people to pick up bikes and dock them at various stations. Riders who have an annual subscription are called members while riders who are single-ride or full-day pass users are considered casual riders.
-
->The director of marketing is looking to maximise the number of annual memberships as they are more profitable than single-ride or full-day passes. This strategy is believed to be the key to future growth.
-
->Management believes that the best approach to do this is through converting casual riders into members as casual riders are already customers and aware of Cyclistic's services. 
+>Cyclistic allows people to pick up bikes and dock them at various stations. Riders who have an annual subscription are called members while riders who are single-ride or full-day pass users are considered casual riders.The director of marketing is looking to maximise the number of annual memberships as they are more profitable than single-ride or full-day passes. This strategy is believed to be the key to future growth.Management believes that the best approach to do this is through converting casual riders into members as casual riders are already customers and aware of Cyclistic's services. 
 
 >Ask/Business Task: To understand the differences in bike usage among casual and member users in order to recommend how to encourage casual riders to become members.
 
