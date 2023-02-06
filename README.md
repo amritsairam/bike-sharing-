@@ -56,7 +56,7 @@ Throughout the week, members and casual riders use the bikes most often around 5
 
 Monthly Use
 
-Overall bikes are used most often and for longer periods from march to june, casual riders use the service particularly more during Saturdays in August. As expected there are fewer users in the winter months. It is also interesting to note that casual riders use the service a fair amount between March and June with a slight dip in May. Electric bikes are fairly popular during autumn for causal riders while classic bikes are almost only used by casual riders during March and February.
+Overall bikes are used most often and for longer periods from march to june, casual riders use the service particularly more during Saturdays in May. As expected there are fewer users in the winter months. It is also interesting to note that casual riders use the service a fair amount between july  and october with a slight dip in november. Electric bikes are fairly popular during spring for causal riders 
 
 ![monthly plots according to bike](https://user-images.githubusercontent.com/124433494/216785120-058b1620-f4cb-4d30-8ce9-907abbf44881.png)
 
