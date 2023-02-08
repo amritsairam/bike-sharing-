@@ -33,7 +33,9 @@ I started by creating a data cleaning rundown script. Among other things I:
 #comments include mean median mode data also in the above picture
 #to be included box plot
 #look at image 2 comments also
+
 ## [Image 3]
+
 ## Data Visualisation
 
 I used Tableau and matplotlib.pyplot  in python  for data visualisation, below are my key findings.
@@ -59,6 +61,17 @@ Monthly Use
 Overall bikes are used most often and for longer periods from march to june, casual riders use the service particularly more during Saturdays in May. As expected there are fewer users in the winter months. It is also interesting to note that casual riders use the service a fair amount between july  and october with a slight dip in november. Electric bikes are fairly popular during spring for causal riders 
 
 ![monthly plots according to bike](https://user-images.githubusercontent.com/124433494/216785120-058b1620-f4cb-4d30-8ce9-907abbf44881.png)
+#comments image 6 remaining
+
+[Image 7]
+
+Trip Duration
+
+The graph below confirms the finding I noticed earlier in the processing stage. Here we can see that casual riders have longer ride journeys across the whole year.
+
+<img width="1097" alt="line graph" src="https://user-images.githubusercontent.com/124433494/217450246-47dd8e62-77e0-424b-ae4a-322c28d9b84c.png">
+
+
 
 
 
